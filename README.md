@@ -1,7 +1,8 @@
 # apiREST-rfgui
 Json per simulare le chiamate rest verso un BE
 
-How to
-Create a repository on GitHub (<your-username>/<your-repo>)
-Create a db.json file
-Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
+# HOW TO:
+
+  1.  Create a repository on GitHub ( < your-username > / < your-repo > ).
+  2.  Create a db.json file.
+  3.  Visit https://my-json-server.typicode.com/ < your-username > / < your-repo > ' to access your server
