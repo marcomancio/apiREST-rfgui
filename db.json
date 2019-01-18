@@ -1,0 +1,36 @@
+{ "items" :
+  [
+    {
+      "item":[
+        { 
+          "field" : "id", "value" : 1, "type" : "number"
+        }, 
+        {
+          "field" : "username", "value" : "Administrator", "type": "string"
+        }, 
+        {
+          "field" : "lastName", "value" : "adminTest", "type": "string"
+        }, 
+        {
+          "field" : "lastModified", "value" : 1547569801089, "type": "number"
+        }
+      ]
+    },
+     {
+      "item":[
+        { 
+          "field" : "id", "value" : 2, "type" : "number"
+        }, 
+        {
+          "field" : "username", "value" : "Viewer", "type": "string"
+        }, 
+        {
+          "field" : "lastName", "value" : "viewTest", "type": "string"
+        }, 
+        {
+          "field" : "lastModified", "value" : 1481815774957, "type": "number"
+        }
+      ]
+    }
+  ]
+}
